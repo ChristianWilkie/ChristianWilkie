@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finance stuff @ Goldman Sachs and grading homework @ Georgia Tech
+- 🔭 I’m currently working @ Google as an SWE-SRE 🤖 
 - 🌱 I’m currently learning more about crypto/finance
 - 👯 I’m looking to collaborate on crypto hackathons (mostly harmony/matic or other eth l1/l2s)
 - 🤔 I’m looking for help with better time management skills
